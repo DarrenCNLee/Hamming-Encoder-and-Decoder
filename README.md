@@ -1,4 +1,4 @@
-# Assignment 5: Hamming Codes
+# Hamming Codes
 This program implements an encoder and decoder that use the Hamming (8,4)
 systematic code to encode and decode messages. This allows one error to be
 corrected and multiple errors to be detected. If the program can correct the
